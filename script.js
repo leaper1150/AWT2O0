@@ -1,5 +1,5 @@
 const photos = [
-    "whats in my head.png", "DSC_0002.JPG", "DSC_0040.JPG", "DSC_0039.JPG", "DSC_0038.JPG", 
+    "cubeecraft.jpg", "whats in my head.png", "DSC_0002.JPG", "DSC_0040.JPG", "DSC_0039.JPG", "DSC_0038.JPG", 
     "DSC_0037.JPG", "DSC_0036.JPG", "DSC_0035.JPG", "DSC_0034.JPG", "DSC_0033.JPG", 
     "DSC_0032.JPG", "DSC_0031.JPG", "DSC_0030.JPG", "DSC_0029.JPG", "DSC_0027.JPG", 
     "DSC_0028.JPG", "DSC_0026.JPG", "DSC_0025.JPG", "DSC_0024.JPG", "DSC_0023.JPG", 
